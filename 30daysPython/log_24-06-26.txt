@@ -1,0 +1,3 @@
+System started: ['20:18:27'],24-06-26User logged in: ['20:18:27'],24-06-26Backup complete: ['20:18:27'],24-06-2620:24:58 ['System started']
+20:24:58 ['User logged in']
+20:24:58 ['Backup complete']

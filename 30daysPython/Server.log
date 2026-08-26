@@ -1,0 +1,6 @@
+INFO: server started
+ERROR: disk full
+WARNING: high memory
+ERROR: connection lost
+INFO: backup complete
+ERROR: timeout
